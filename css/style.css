@@ -8,11 +8,11 @@ body, html {
 	height: 100% !important;
 }
 h1 {
+	font-family: 'Rhesmanisa', sans-serif;
 	color: #333;
 	font-size: 64px;
 	font-weight: 800;
 	margin-top: 0;
-	text-transform: uppercase;
 	margin-bottom: 10px;
 }
 h2 {
